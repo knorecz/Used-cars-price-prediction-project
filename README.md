@@ -12,7 +12,7 @@ The dataset covers vehicles sold in Germany in 2021. Observed attributes are:
   - mileage
   - fuel
   - gear
-  - offer types
+  - offer type
   - price
   - horsepower
   - year
